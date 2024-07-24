@@ -4,7 +4,7 @@
    
 2. Open Terminal from 'Downloads' and run
    
-   <b>sudeep@sudeep-Precision-5820-Tower:~/Downloads$ bash Anaconda...<\b> (press Tab, it will auto complete it).
+   <b>sudeep@sudeep-Precision-5820-Tower:~/Downloads$ bash Anaconda...</b> (press Tab, it will auto complete it).
    
 5. A file will be created at the location where it was installed with 'anaconda3' filename.
 6. To Add Anaconda to Your PATH:
