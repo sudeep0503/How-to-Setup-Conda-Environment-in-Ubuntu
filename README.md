@@ -27,7 +27,7 @@
    ![image](https://github.com/user-attachments/assets/762d9544-8936-44cb-acca-8520c074479f)
 
    and exit terminal.
-9. THen type, "conda activate base"
+9. Then type, "conda activate base"
 10. If it shows error like: "CondaError: Run 'conda init' before 'conda activate'", then type "conda init".
 11. Then type "source ~/.bashrc"
 12. Type "conda activate base"
