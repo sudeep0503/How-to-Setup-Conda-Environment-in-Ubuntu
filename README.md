@@ -1,7 +1,8 @@
 # How-to-Setup-Conda-Environment-in-Ubuntu
 
 1. Download Anaconda from it's official website in Download folder.
-   
+   ![anaconda_download](https://github.com/user-attachments/assets/bc630393-b5bb-4af0-996d-e13b5d8086ef)
+
 2. Open Terminal from 'Downloads' and run
    
    <b>sudeep@sudeep-Precision-5820-Tower:~/Downloads$ bash Anaconda...</b> (press Tab, it will auto complete it).
