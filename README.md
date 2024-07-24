@@ -5,7 +5,7 @@
 
 2. Open Terminal from 'Downloads' and run
    
-   <b>sudeep@sudeep-Precision-5820-Tower:~/Downloads$ bash Anaconda...</b> (press Tab, it will auto complete it).
+   <b>sudeep@sudeep-Precision-5820-Tower:~/Downloads$ bash Anaconda...</b> (press Tab, it will auto complete the file name).
    ![install_anaconda](https://github.com/user-attachments/assets/e10f782c-f747-4c1b-80c4-3d2267de3255)
 
    
