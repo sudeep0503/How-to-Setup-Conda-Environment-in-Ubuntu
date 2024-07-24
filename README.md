@@ -23,11 +23,14 @@
 6. Open terminal check 'conda --version', it will display conda version.
     ![conda_version](https://github.com/user-attachments/assets/9908de63-a21f-4da6-8fda-ce0d9a02b051)
 
-7. To activate the base environment by default, type "conda activate base".
-8. If it shows error like: "CondaError: Run 'conda init' before 'conda activate'", then type "conda init".
-9. Then type "source ~/.bashrc"
-10. Type "conda activate base"
+7. To activate the base environment by default, type "conda config --set auto_activate_base true".
+   ![image](https://github.com/user-attachments/assets/762d9544-8936-44cb-acca-8520c074479f)
+   and exit terminal.
+9. THen type, "conda activate base"
+10. If it shows error like: "CondaError: Run 'conda init' before 'conda activate'", then type "conda init".
+11. Then type "source ~/.bashrc"
+12. Type "conda activate base"
     
-11. Now you can create your own environment using "conda create --name my_env".
-12. Say "Yes" to every permissions.
-13. To activate your envinroment: "conda activate my_env"
+13. Now you can create your own environment using "conda create --name my_env".
+14. Say "Yes" to every permissions.
+15. To activate your envinroment: "conda activate my_env"
